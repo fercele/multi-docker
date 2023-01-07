@@ -1,2 +1,2 @@
-set POSTGRES_PASSWORD=schwartz
+set POSTGRES_PASSWORD=somesecretpwd
 docker-compose up -d
